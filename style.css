@@ -9,7 +9,7 @@ header {
 }
 
 img{
-  margin: auto;
+  text-align: center;
 }
 
 nav a{
@@ -17,3 +17,5 @@ nav a{
   padding-right: 10px;
   background-color: gray;
 }
+
+
